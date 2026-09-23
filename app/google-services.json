@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032176343300",
+    "project_id": "tak-tak-tv",
+    "storage_bucket": "tak-tak-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032176343300:android:1f9252b6bb00ca93829851",
+        "android_client_info": {
+          "package_name": "com.example.taktaktv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AV_JRVg8ZVVd-QPZ-yzOw7x3G0gD9ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
